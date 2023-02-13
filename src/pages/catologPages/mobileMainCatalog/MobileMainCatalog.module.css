@@ -1,0 +1,9 @@
+.posts{
+    padding-top: 10%;
+    padding-bottom: 20%;
+    height: 570px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+}

@@ -1,0 +1,7 @@
+export const compTypes = {
+    OPENPOISK:'OPENPOISK',
+    CLOSEPOISK:'CLOSEPOISK',
+    POISKAPI:'POISKAPI',
+    LOADON:'LOADON',
+    LOADOFF:'LOADOFF'
+}
